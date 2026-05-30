@@ -1,6 +1,6 @@
 # Horizon Client — Versiones públicas
 
-Descargas oficiales del **Horizon Launcher** (Minecraft 1.21.5 + Fabric). Descarga la última versión desde la pestaña **Releases** y ejecuta el instalador `*-setup.exe`.
+Descargas oficiales del **Horizon Launcher**. Descarga la última versión desde la pestaña **Releases** y ejecuta el instalador `*-setup.exe`.
 
 ## ⚠️ Aviso al instalar en Windows (primera vez)
 
